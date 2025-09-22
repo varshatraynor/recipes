@@ -4,4 +4,5 @@
 * lime
 * salt
 ## Instructions
-Cut avocado
+1. Cut avocado
+1. 🔪🥑
