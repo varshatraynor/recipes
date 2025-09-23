@@ -1,3 +1,7 @@
 # Hummus
-## Ingredient
+## Ingredients
+Chickpeas
+Olive oil 
+Garlic 
+Tahini
 ## Instructions
